@@ -2,20 +2,20 @@
 
 [![make.fun · news-image-20261122](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 [![rank](https://make.fun/badge/news-image-20261122/MAO55555/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
-[![reward](https://make.fun/badge/news-image-20261122/MAO55555/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![reward](https://make.fun/badge/news-image-20261122/MAO55555/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122/reward?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
 
 A deterministic, high-contrast, editorial broadsheet intelligence poster summarizing the verified world news of **SUNDAY, 22 NOVEMBER 2026**.
 
 ## Overview
 
 The image synthesizes verified factual developments across 7 key regions and fields into an executive-level single-image briefing:
-- **Middle East / Gulf**: Bahrain air defenses intercept Iranian drone & missile strikes; commercial oil tankers hit near the Strait of Hormuz; US CENTCOM firmly refutes claims of a downed F-16; Qatar facilitates emergency mediation in Tehran; displaced Palestinians protest Israeli strikes along the Gaza 'Yellow Line'.
-- **Climate / COP31 (Antalya)**: UN COP31 summit pushes into a second day of unscheduled overtime as ~200 nations deadlock over fossil fuel phase-out language and climate finance mechanisms on a third draft text.
-- **Europe / Baltic & NATO**: Russian military-linked cargo vessel *Sparta II* catches fire after a drone strike in the Gulf of Finland (16 crew safely evacuated); NATO Sec-Gen Mark Rutte pledges to defend "every inch" of Poland; Brussels Airport warns of flight cancellations ahead of a national ATC strike.
-- **UN / Geneva**: Disarmament negotiations fail to reach a binding prohibition on lethal autonomous weapons systems ('killer robots'), agreeing to a 2-year diplomatic timetable extending to 2028.
-- **Asia-Pacific**: Magnitude-7.2 earthquake off Indonesia's Maluku (no tsunami threat); International Court of Justice (ICJ) rules Myanmar committed genocide against the Rohingya; heavy mountain snowfall isolates 1,000+ residents in Fukushima, Japan.
-- **Americas / Extreme Weather**: Relentless storms spark historic St. Johns River flooding in Central Florida, triggering urgent evacuation warnings.
-- **Global Sport**: Max Verstappen takes pole position ahead of George Russell at the Las Vegas Grand Prix (04:00 UTC Nov 22) after Kimi Antonelli is penalized to P6; Carlos Alcaraz faces Alexander Zverev in the ATP Finals championship match.
+- **Climate / UN (Lead Story)**: UN COP31 climate negotiations in Antalya collapse without a final cover agreement after record two-day overtime; EU, Panama, and Marshall Islands reject draft text omitting fossil fuel phase-out language; COP31 president Murat Kurum and UN chief Guterres acknowledge diplomatic impasse.
+- **Middle East / Gulf**: Iran's IRGC claims two commercial supertankers exploded after striking naval mines east of the Strait of Hormuz (unconfirmed Iranian claim; UKMTO reported incident in Gulf of Oman); nationwide rolling power cuts begin across Iran; Houthis claim strike on Saudi Rabigh oil refinery.
+- **Europe / Ukraine**: Russian Shahed drone collapses a section of a five-storey residential building in Dymer near Kyiv (at least 6 killed, boy rescued from rubble); supermarket strike in Vyshneve kills two; regional day of mourning declared for Nov 23.
+- **Africa**: RSF-blamed drone strikes hit Khartoum and Omdurman, killing 4 and damaging a UN facility with staff inside; Nigeria's Bayelsa boat disaster death toll rises to 29 with 50+ survivors.
+- **Asia-Pacific**: France urges UN Security Council action following Myanmar military junta's formal rejection of the ICJ genocide ruling regarding the Rohingya; road access restored to Fukushima's snow-isolated Kitashiobara village (~1,000 residents).
+- **Americas**: US Democrats secure 258+ House seats (largest congressional majority this century) as Chuck Hubbard is projected to defeat Rep. Virginia Foxx in NC-5; Florida's St. Johns River crests at major flood stage from Cocoa to DeLand.
+- **Global Sport**: Max Verstappen wins the Las Vegas Grand Prix from pole position after 35 lead changes (Norris 2nd, Piastri 3rd); Carlos Alcaraz defeats Alexander Zverev 6-2, 7-6(7) in Turin to capture his first ATP Finals championship title.
 
 ## Image Specifications
 
@@ -23,7 +23,7 @@ The image synthesizes verified factual developments across 7 key regions and fie
 - **Dimensions**: Exactly 1024 × 1024 pixels
 - **File Size**: ~500 KiB (strictly under the 1 MiB / 1,048,576 byte limit)
 - **Determinism**: Baked at build time; byte-identical across multiple executions
-- **Legibility**: Engineered with high-contrast color cards, tactical radar diagrams, and vector world map pins to ensure crisp legibility even when scaled down to 300px.
+- **Legibility**: Engineered with high-contrast color cards, tactical diagrams, and vector world map pins to ensure crisp legibility even when scaled down to 300px.
 
 ## How to Run
 
